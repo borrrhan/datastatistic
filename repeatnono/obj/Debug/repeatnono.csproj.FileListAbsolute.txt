@@ -1,0 +1,6 @@
+C:\Users\Leo\Desktop\Form\repeatnono\repeatnono\bin\Debug\repeatnono.exe.config
+C:\Users\Leo\Desktop\Form\repeatnono\repeatnono\obj\Debug\repeatnono.csprojResolveAssemblyReference.cache
+C:\Users\Leo\Desktop\Form\repeatnono\repeatnono\bin\Debug\repeatnono.exe
+C:\Users\Leo\Desktop\Form\repeatnono\repeatnono\bin\Debug\repeatnono.pdb
+C:\Users\Leo\Desktop\Form\repeatnono\repeatnono\obj\Debug\repeatnono.exe
+C:\Users\Leo\Desktop\Form\repeatnono\repeatnono\obj\Debug\repeatnono.pdb
